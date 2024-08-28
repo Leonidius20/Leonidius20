@@ -10,10 +10,11 @@ I'm Leonid and I am an Android Developer. Check out my projects below 👇
 ![Static Badge](https://img.shields.io/badge/Jetpack%20libraries-yellow?style=for-the-badge&logo=square&logoSize=androidstudio)
 
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonidius20&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonidius20&hide_rank=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonidius20&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile visits
-
+[![Leonidius20 profile views](https://u8views.com/api/v1/github/profiles/25536411/views/day-week-month-total-count.svg)](https://u8views.com/github/Leonidius20)
 
 <!--
 **Leonidius20/Leonidius20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
